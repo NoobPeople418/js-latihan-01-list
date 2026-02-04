@@ -1,0 +1,26 @@
+function pekerjaan() {
+  const listProvinsi = [
+    { nama: "guru" },
+    { nama: "dokter" },
+    { nama: "hakim" },
+    { nama: "musisi" },
+    { nama: "pilot" },
+    { nama: "sopir" },
+    { nama: "masinis" },
+    { nama: "petani" },
+    { nama: "nelayan" },
+    { nama: "Software Developer" },
+  ]
+  console.log("1.", listProvinsi[0].nama);
+  console.log("2.", listProvinsi[1].nama);
+  console.log("3.", listProvinsi[2].nama);
+  console.log("4.", listProvinsi[3].nama);
+  console.log("5.", listProvinsi[4].nama);
+  console.log("6.", listProvinsi[5].nama);
+  console.log("7.", listProvinsi[6].nama);
+  console.log("8.", listProvinsi[7].nama);
+  console.log("9.", listProvinsi[8].nama);
+  console.log("10.", listProvinsi[9].nama);
+}
+
+pekerjaan()
