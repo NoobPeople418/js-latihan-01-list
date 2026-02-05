@@ -1,5 +1,5 @@
 function BuahBuahan() {
-  const listProvinsi = [
+  const listBuahBuahan = [
     { nama: "apel" },
     { nama: "mangga" },
     { nama: "pepaya" },
@@ -11,16 +11,16 @@ function BuahBuahan() {
     { nama: "semangka" },
     { nama: "jeruk" }
   ];
-  console.log("1.", listProvinsi[0].nama);
-  console.log("2.", listProvinsi[1].nama);
-  console.log("3.", listProvinsi[2].nama);
-  console.log("4.", listProvinsi[3].nama);
-  console.log("5.", listProvinsi[4].nama);
-  console.log("6.", listProvinsi[5].nama);
-  console.log("7.", listProvinsi[6].nama);
-  console.log("8.", listProvinsi[7].nama);
-  console.log("9.", listProvinsi[8].nama);
-  console.log("10.", listProvinsi[9].nama);
+  console.log("1.", listBuahBuahan[0].nama);
+  console.log("2.", listBuahBuahan[1].nama);
+  console.log("3.", listBuahBuahan[2].nama);
+  console.log("4.", listBuahBuahan[3].nama);
+  console.log("5.", listBuahBuahan[4].nama);
+  console.log("6.", listBuahBuahan[5].nama);
+  console.log("7.", listBuahBuahan[6].nama);
+  console.log("8.", listBuahBuahan[7].nama);
+  console.log("9.", listBuahBuahan[8].nama);
+  console.log("10.", listBuahBuahan[9].nama);
 }
 
 BuahBuahan();
